@@ -66,7 +66,7 @@ Email: musaqureshi0000@gmail.com
 ----
 
 ## ©️Live Preview - 
-- Chat Analyzer [https://chat-x-analyzer.streamlit.app/]
+- Chat Analyzer: [chat-x-analyzer](https://chat-x-analyzer.streamlit.app/)
 
 ---
 
