@@ -65,6 +65,11 @@ Email: musaqureshi0000@gmail.com
 
 ----
 
+## ©️Live Preview - 
+- Chat Analyzer [https://chat-x-analyzer.streamlit.app/]
+
+---
+
 ### ❤️ Acknowledgements
 Thanks to the creators of the amazing Python libraries that make this possible.
 
