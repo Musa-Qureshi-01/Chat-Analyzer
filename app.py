@@ -1,5 +1,4 @@
 import streamlit as st
-from plotly.express import timeline
 
 import seaborn as sns
 import preprocessor, helper
