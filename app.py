@@ -16,7 +16,7 @@ st.sidebar.title('Chat Analyzer')
 
 uploaded_file = st.sidebar.file_uploader('Choose a file')
 
-st.title("Chat Analyzer 🗨️ - Currently for Whatsapp")
+st.title("Chat Analyzer 🗨️ - Currently for Whatsapp Only.")
 st.write("""
 Welcome to the Chat Analyzer!  
 
@@ -219,7 +219,8 @@ if uploaded_file is not None:
             st.dataframe(emoji_df)
 
 
-
+for _ in range(15):
+    st.write("")
 
 # Excel file path
 EXCEL_FILE = "contact_form_data.xlsx"
